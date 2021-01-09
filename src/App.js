@@ -24,10 +24,10 @@ function App() {
           <div class="search">
             <a>
               <i class="fab fa-whatsapp"></i> <span>+58 412 8256644</span>
-            </a>{" "}
+            </a>
             /
             <a>
-               <i class="fas fa-envelope"></i> <span>contacto@lawanda.com</span>
+                <i class="fas fa-envelope"></i> <span>contacto@lawanda.com</span>
             </a>
           </div>
           <div class="cart-icon">
@@ -36,7 +36,7 @@ function App() {
         </div>
 
         <div class="title">
-          <h1>La Wanda</h1>
+          <h1>La Wanda <span>SHOP</span></h1>
         </div>
 
         <ul class="nav-menu">
