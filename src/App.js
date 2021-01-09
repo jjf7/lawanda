@@ -289,7 +289,7 @@ function App() {
       </footer>
 
       <div class="footer">
-        <div>Copyright © 2020, desarrollado por tupaginaonline.net</div>
+        <div>Copyright © 2020, desarrollado por: <a target="_blank" href="https://tupaginaonline.net">tupaginaonline.net</a></div>
         <div>
           <span>Pagos v&iacute;a</span>
           <i class="fab fa-cc-paypal"></i>
