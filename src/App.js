@@ -289,7 +289,7 @@ function App() {
       </footer>
 
       <div class="footer">
-        <div>Copyright © 2020, ioshop.link.</div>
+        <div>Copyright © 2020, desarrollado por tupaginaonline.net</div>
         <div>
           <span>Pagos v&iacute;a</span>
           <i class="fab fa-cc-paypal"></i>
