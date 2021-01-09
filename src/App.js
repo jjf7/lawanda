@@ -27,7 +27,7 @@ function App() {
             </a>
             /
             <a>
-                <i class="fas fa-envelope"></i> <span>contacto@lawanda.com</span>
+              <i class="fas fa-envelope"></i> <span>contacto@lawanda.com</span>
             </a>
           </div>
           <div class="cart-icon">
@@ -36,7 +36,9 @@ function App() {
         </div>
 
         <div class="title">
-          <h1>La Wanda <span>SHOP</span></h1>
+          <h1>
+            La Wanda <span>SHOP</span>
+          </h1>
         </div>
 
         <ul class="nav-menu">
@@ -81,9 +83,9 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
-              </div>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
+               </div>
             </a>
           </div>
 
@@ -104,8 +106,8 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
               </div>
             </a>
           </div>
@@ -126,8 +128,8 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
               </div>
             </a>
           </div>
@@ -148,8 +150,8 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
               </div>
             </a>
           </div>
@@ -170,8 +172,8 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
               </div>
             </a>
           </div>
@@ -192,8 +194,8 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
               </div>
             </a>
           </div>
@@ -214,8 +216,8 @@ function App() {
                 <span>(57)</span>
               </div>
               <div class="price">
-                <span class="old">$59.00</span>
-                <span class="actual">$100.00</span>
+                <span class="old">$100.00</span>
+                <span class="actual">$59.00</span>
               </div>
             </a>
           </div>
@@ -289,7 +291,12 @@ function App() {
       </footer>
 
       <div class="footer">
-        <div>Copyright © 2020, desarrollado por: <a target="_blank" href="https://tupaginaonline.net">tupaginaonline.net</a></div>
+        <div>
+          Copyright © 2020, desarrollado por:{" "}
+          <a target="_blank" href="https://tupaginaonline.net">
+            tupaginaonline.net
+          </a>
+        </div>
         <div>
           <span>Pagos v&iacute;a</span>
           <i class="fab fa-cc-paypal"></i>
