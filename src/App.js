@@ -12,7 +12,7 @@ function App() {
 
         <span>
           Tasa del dia: US$1.00 <i class="fas fa-chevron-right"></i> BsS.
-          1.090.000.000,50{" "}
+          1.600.000.000,50{" "}
         </span>
       </div>
 
@@ -27,7 +27,7 @@ function App() {
             </a>{" "}
             /
             <a>
-              <i class="fas fa-envelope"></i> <span>contacto@lawanda.com</span>
+               <i class="fas fa-envelope"></i> <span>contacto@lawanda.com</span>
             </a>
           </div>
           <div class="cart-icon">
